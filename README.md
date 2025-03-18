@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Array
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
