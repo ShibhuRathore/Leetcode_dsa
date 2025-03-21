@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0093-restore-ip-addresses) |
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0093-restore-ip-addresses) |
 ## Sorting
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 ## Breadth-First Search
 |  |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 ## Topological Sort
 |  |
