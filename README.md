@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
