@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0093-restore-ip-addresses) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0190-reverse-bits) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
