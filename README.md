@@ -83,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Divide and Conquer
 |  |
@@ -99,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
