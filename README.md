@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
@@ -146,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
