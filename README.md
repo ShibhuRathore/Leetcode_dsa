@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0090-subsets-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 ## Topological Sort
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
