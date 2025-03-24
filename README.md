@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
+| [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
 | [3430-count-days-without-meetings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
