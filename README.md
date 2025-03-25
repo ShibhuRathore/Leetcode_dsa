@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3430-count-days-without-meetings) |
