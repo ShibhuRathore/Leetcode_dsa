@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
