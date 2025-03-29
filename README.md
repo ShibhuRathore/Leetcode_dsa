@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sliding Window
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
+| [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
