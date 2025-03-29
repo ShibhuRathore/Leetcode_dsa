@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
