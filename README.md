@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Dynamic Programming
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0086-partition-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 ## Tree
 |  |
 | ------- |
@@ -243,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
