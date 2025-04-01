@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0053-maximum-subarray) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0064-minimum-path-sum) |
