@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2262-solving-questions-with-brainpower) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [2717-collect-coins-in-a-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2717-collect-coins-in-a-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
