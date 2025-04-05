@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sliding Window
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
 ## Math
 |  |
