@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2262-solving-questions-with-brainpower) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0201-bitwise-and-of-numbers-range) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
 | ------- |
@@ -300,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
