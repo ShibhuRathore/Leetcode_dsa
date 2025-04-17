@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [2717-collect-coins-in-a-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2717-collect-coins-in-a-tree) |
