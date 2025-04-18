@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0093-restore-ip-addresses) |
