@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0093-restore-ip-addresses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0290-word-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0306-additive-number) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
