@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0055-jump-game) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0062-unique-paths) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
