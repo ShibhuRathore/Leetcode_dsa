@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
+| [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0376-wiggle-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 ## Bit Manipulation
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2050-count-good-numbers) |
