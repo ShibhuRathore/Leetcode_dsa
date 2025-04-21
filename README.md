@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
