@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
