@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1500-count-largest-group](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2050-count-good-numbers) |
