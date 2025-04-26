@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0091-decode-ways) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0062-unique-paths) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
