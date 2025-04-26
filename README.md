@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
