@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0065-valid-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0053-maximum-subarray) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
