@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0343-integer-break](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0376-wiggle-subsequence) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
