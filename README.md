@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0306-additive-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sliding Window
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
