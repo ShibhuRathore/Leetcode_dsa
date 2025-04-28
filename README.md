@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
