@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sliding Window
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
+| [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0376-wiggle-subsequence) |
+| [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
