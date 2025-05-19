@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3321-type-of-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3637-count-number-of-balanced-permutations) |
