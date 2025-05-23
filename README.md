@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0137-single-number-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0221-maximal-square) |
