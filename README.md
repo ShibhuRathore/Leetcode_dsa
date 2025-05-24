@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0283-move-zeroes) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0349-intersection-of-two-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
