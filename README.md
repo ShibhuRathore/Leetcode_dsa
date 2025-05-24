@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0343-integer-break) |
