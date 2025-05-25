@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Rolling Hash
 |  |
