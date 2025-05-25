@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0318-maximum-product-of-word-lengths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
