@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2249-count-the-hidden-sequences) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
+| [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 ## Combinatorics
 |  |
 | ------- |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+| [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
