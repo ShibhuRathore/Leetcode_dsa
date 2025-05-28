@@ -4,8 +4,9 @@ int atmostk(vector<int>&nums, int k){
     int left=0;
         int count=0;
         unordered_map<int,int> mp;
-        for(int right=0;right<nums.size();right++){
-           
+        int n=nums.size();
+        int right=0;
+        while(right<n){
             mp[nums[right]]++;
             while(mp.size()>k){
                  mp[nums[left]]--;
@@ -14,6 +15,7 @@ int atmostk(vector<int>&nums, int k){
                  }
                  left++;
             }
+           right++;
            count+=right-left+1;
         }
         return count;
