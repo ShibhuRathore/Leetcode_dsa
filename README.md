@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
