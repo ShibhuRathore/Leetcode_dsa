@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3738-make-array-non-decreasing](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3738-make-array-non-decreasing) |
 ## Backtracking
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3738-make-array-non-decreasing](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3738-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2227-sum-of-subarray-ranges) |
+| [3738-make-array-non-decreasing](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3738-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2227-sum-of-subarray-ranges) |
+| [3738-make-array-non-decreasing](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3738-make-array-non-decreasing) |
 ## Design
 |  |
 | ------- |
