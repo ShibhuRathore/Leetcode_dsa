@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
+| [0834-ambiguous-coordinates](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0834-ambiguous-coordinates) |
 | [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [0306-additive-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
+| [0834-ambiguous-coordinates](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0834-ambiguous-coordinates) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0834-ambiguous-coordinates](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0834-ambiguous-coordinates) |
 | [1656-count-good-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2998-count-symmetric-integers) |
