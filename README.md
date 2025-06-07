@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2626-count-the-number-of-good-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3637-count-number-of-balanced-permutations) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3738-make-array-non-decreasing](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3738-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Stack
 |  |
@@ -739,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3738-make-array-non-decreasing](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3738-make-array-non-decreasing) |
 ## Recursion
 |  |
