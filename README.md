@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0310-minimum-height-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0513-find-bottom-left-tree-value) |
@@ -855,4 +856,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0278-first-bad-version) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
