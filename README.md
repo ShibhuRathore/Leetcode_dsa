@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0310-minimum-height-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0404-sum-of-left-leaves) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0404-sum-of-left-leaves) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
