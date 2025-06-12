@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2717-collect-coins-in-a-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2717-collect-coins-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0633-sum-of-square-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Shortest Path
 |  |
