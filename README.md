@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0133-clone-graph) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0404-sum-of-left-leaves) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0508-most-frequent-subtree-sum) |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0508-most-frequent-subtree-sum) |
@@ -839,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0307-range-sum-query-mutable) |
