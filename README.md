@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3738-make-array-non-decreasing) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Backtracking
 |  |
 | ------- |
