@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0093-restore-ip-addresses) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0075-sort-colors) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
