@@ -1,32 +1,30 @@
 class Solution {
 public:
     int closestCost(vector<int>& baseCosts, vector<int>& toppingCosts, int target) {
-        int closest = INT_MAX; // Store the closest cost found so far
+        unordered_set<int> possibleCosts;
 
-        // Helper function for DFS over toppings
-        function<void(int, int)> dfs = [&](int index, int currentCost) {
-            // Update closest if this cost is better
-            if (abs(currentCost - target) < abs(closest - target) ||
-                (abs(currentCost - target) == abs(closest - target) && currentCost < closest)) {
-                closest = currentCost;
-            }
-
-            // Base case: if we’ve used all toppings, return
-            if (index == toppingCosts.size()) return;
-
-            // Choice 1: Use 0 of current topping
-            dfs(index + 1, currentCost);
-
-            // Choice 2: Use 1 of current topping
-            dfs(index + 1, currentCost + toppingCosts[index]);
-
-            // Choice 3: Use 2 of current topping
-            dfs(index + 1, currentCost + 2 * toppingCosts[index]);
-        };
-
-        // Try DFS starting from each base cost
+        // Start with all base costs
         for (int base : baseCosts) {
-            dfs(0, base);
+            possibleCosts.insert(base);
+        }
+
+        // For each topping, update reachable costs with 0, 1, 2 units
+        for (int topping : toppingCosts) {
+            unordered_set<int> newCosts = possibleCosts;
+            for (int cost : possibleCosts) {
+                newCosts.insert(cost + topping);
+                newCosts.insert(cost + 2 * topping);
+            }
+            possibleCosts = newCosts;
+        }
+
+        // Find the cost closest to target
+        int closest = INT_MAX;
+        for (int cost : possibleCosts) {
+            if (abs(cost - target) < abs(closest - target) ||
+                (abs(cost - target) == abs(closest - target) && cost < closest)) {
+                closest = cost;
+            }
         }
 
         return closest;
