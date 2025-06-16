@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0310-minimum-height-trees) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
