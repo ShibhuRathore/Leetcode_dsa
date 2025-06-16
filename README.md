@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0376-wiggle-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0376-wiggle-subsequence) |
 | [0384-shuffle-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0384-shuffle-an-array) |
 | [0393-utf-8-validation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0393-utf-8-validation) |
+| [0419-battleships-in-a-board](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0419-battleships-in-a-board) |
 | [0508-most-frequent-subtree-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0419-battleships-in-a-board](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0419-battleships-in-a-board) |
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
