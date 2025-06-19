@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0133-clone-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
