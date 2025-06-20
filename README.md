@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0724-find-pivot-index) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0384-shuffle-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0384-shuffle-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -911,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2280-count-good-triplets-in-an-array) |
 ## Geometry
 |  |
@@ -961,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0384-shuffle-an-array) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -984,4 +990,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
