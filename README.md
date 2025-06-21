@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0836-race-car](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0836-race-car) |
 | [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
