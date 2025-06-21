@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0652-find-duplicate-subtrees) |
+| [0832-binary-tree-pruning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0832-binary-tree-pruning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2717-collect-coins-in-a-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2717-collect-coins-in-a-tree) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0832-binary-tree-pruning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Shortest Path
