@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0652-find-duplicate-subtrees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
 | [0878-shifting-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0878-shifting-letters) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0733-flood-fill) |
+| [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
