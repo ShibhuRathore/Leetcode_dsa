@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-shifting-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0878-shifting-letters) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0834-ambiguous-coordinates](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0834-ambiguous-coordinates) |
 | [1900-closest-dessert-cost](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1900-closest-dessert-cost) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Sorting
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -932,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2998-count-symmetric-integers) |
