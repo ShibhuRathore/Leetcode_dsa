@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1500-count-largest-group](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1500-count-largest-group) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2442-number-of-arithmetic-triplets) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2227-sum-of-subarray-ranges) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
