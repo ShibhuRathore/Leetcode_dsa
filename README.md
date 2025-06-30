@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1063-best-sightseeing-pair) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
