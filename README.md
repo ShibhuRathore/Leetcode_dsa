@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0508-most-frequent-subtree-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
