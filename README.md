@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1656-count-good-triplets) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1039-find-the-town-judge](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1084,4 +1087,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
