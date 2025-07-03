@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3637-count-number-of-balanced-permutations) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
