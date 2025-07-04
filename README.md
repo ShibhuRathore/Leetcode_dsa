@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0068-text-justification) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0056-merge-intervals) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
