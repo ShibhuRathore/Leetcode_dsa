@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-shifting-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0878-shifting-letters) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1032-satisfiability-of-equality-equations) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0306-additive-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0834-ambiguous-coordinates](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0834-ambiguous-coordinates) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1900-closest-dessert-cost](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1900-closest-dessert-cost) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
