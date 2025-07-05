@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1500-count-largest-group](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1635-number-of-good-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1635-number-of-good-pairs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
