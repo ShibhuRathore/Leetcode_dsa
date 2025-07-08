@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0038-count-and-say) |
