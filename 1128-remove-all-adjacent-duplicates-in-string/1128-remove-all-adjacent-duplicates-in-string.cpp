@@ -2,19 +2,13 @@ class Solution {
 public:
     string removeDuplicates(string s) {
         string temp = "";
-        int j = -1;  // No characters in temp initially
-
-        for (int i = 0; i < s.length(); i++) {
-            // We guarantee j != -1 by making sure we never access temp[j] when j == -1
-            if (j != -1 && temp[j] == s[i]) {
+        temp.push_back(s[0]);
+        for(int i=1;i<s.length();i++){
+              if(!temp.empty()&&s[i]==temp.back()){
                 temp.pop_back();
-                j--;
-            } else {
-                temp.push_back(s[i]);
-                j++;
-            }
+              }
+              else{temp.push_back(s[i]);}
         }
-
         return temp;
     }
 };
