@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2406-decode-the-message](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2442-number-of-arithmetic-triplets) |
+| [2479-meeting-rooms-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2442-number-of-arithmetic-triplets) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2479-meeting-rooms-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
