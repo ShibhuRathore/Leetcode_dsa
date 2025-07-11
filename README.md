@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1032-satisfiability-of-equality-equations) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
+| [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2280-count-good-triplets-in-an-array) |
 ## Depth-First Search
 |  |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
+| [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
@@ -1104,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
+| [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
 ## Monotonic Stack
 |  |
@@ -1146,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 ## Randomized
 |  |
 | ------- |
