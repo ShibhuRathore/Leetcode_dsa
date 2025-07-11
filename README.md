@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
 | [0878-shifting-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0878-shifting-letters) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
