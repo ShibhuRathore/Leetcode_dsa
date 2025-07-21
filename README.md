@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1032-satisfiability-of-equality-equations](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1032-satisfiability-of-equality-equations) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-binary-tree-pruning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2201-valid-arrangement-of-pairs) |
@@ -1198,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Reservoir Sampling
 |  |
 | ------- |
