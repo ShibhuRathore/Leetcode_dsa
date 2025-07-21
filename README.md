@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0953-reverse-only-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0953-reverse-only-letters) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1032-satisfiability-of-equality-equations) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
