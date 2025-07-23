@@ -1,43 +1,42 @@
-#include <string>
-#include <vector>
-#include <algorithm>
-#include <utility>
-
-using namespace std;
-
 class Solution {
 public:
     int maximumGain(string s, int x, int y) {
-        int totalPoints = 0;
-        string high_priority_pair = (x > y) ? "ab" : "ba";
-        string low_priority_pair = (x > y) ? "ba" : "ab";
-        int high_priority_score = max(x, y);
-        int low_priority_score = min(x, y);
+        if (x < y) {
+            swap(x, y);
+            reverse(s.begin(), s.end());
+        }
 
-        // First pass: remove high priority pairs
-        pair<int, string> after_first_pass = solve(s, high_priority_pair, high_priority_score);
-        totalPoints += after_first_pass.first;
+        int res = 0;
+        stack<char> st;
 
-        // Second pass: remove low priority pairs from the remaining string
-        pair<int, string> after_second_pass = solve(after_first_pass.second, low_priority_pair, low_priority_score);
-        totalPoints += after_second_pass.first;
-        
-        return totalPoints;
-    }
-
-private:
-    // Helper function to process the string and remove a specific pattern
-    pair<int, string> solve(const string& text, const string& pattern, int score) {
-        string stack;
-        int points = 0;
-        for (char c : text) {
-            if (!stack.empty() && stack.back() == pattern[0] && c == pattern[1]) {
-                stack.pop_back();
-                points += score;
+        // First pass: remove "ab" (or "ba" if x < y was true and we reversed)
+        for (char c : s) {
+            if (!st.empty() && st.top() == 'a' && c == 'b') {
+                st.pop();
+                res += x;
             } else {
-                stack.push_back(c);
+                st.push(c);
             }
         }
-        return {points, stack};
+
+        // Rebuild remaining string after first pass
+        string remaining;
+        while (!st.empty()) {
+            remaining += st.top();
+            st.pop();
+        }
+        reverse(remaining.begin(), remaining.end());
+
+        // Second pass: remove "ba" (or "ab" if reversed earlier)
+        for (char c : remaining) {
+            if (!st.empty() && st.top() == 'b' && c == 'a') {
+                st.pop();
+                res += y;
+            } else {
+                st.push(c);
+            }
+        }
+
+        return res;
     }
 };
