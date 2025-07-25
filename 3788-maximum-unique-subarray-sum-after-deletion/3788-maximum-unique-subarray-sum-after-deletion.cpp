@@ -1,16 +1,14 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums) {
-        int M=*max_element(nums.begin(), nums.end());
-        if (M<=0) return M;
-        bitset<101> seen=0;
-        int sum=0;
-        for(int x: nums){
-            if (x>=0 && !seen[x]){
-                sum+=x;
-                seen[x]=1;
-            }
+        set<int> pt;
+        for(auto& num:nums) pt.insert(num);
+        int result = 0,Max = INT_MIN;
+        for(auto& num:pt){
+            if(num>0)   result+=num;
+            Max = max(Max,num);
         }
-        return sum;
+        if(result==0)   return Max;
+        return result;
     }
 };
