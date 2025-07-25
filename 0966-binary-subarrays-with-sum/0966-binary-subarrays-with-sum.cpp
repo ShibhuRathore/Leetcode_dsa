@@ -9,18 +9,14 @@ public:
             prefix[i]=nums[i]+prefix[i-1];
         }
         unordered_map<int,int>mp;
-       
+       mp[0]=1;
          for(int j=0;j<n;j++){
             int val=prefix[j]-k;
-            if(prefix[j]==k){
-                count++;
-            }
+          
             if(mp.find(val)!=mp.end()){
                 count+=mp[val];
             }
-            if(mp.find(prefix[j])==mp.end()){
-                mp[prefix[j]]=0;
-            }
+          
                 mp[prefix[j]]++;}
        
         return count;
