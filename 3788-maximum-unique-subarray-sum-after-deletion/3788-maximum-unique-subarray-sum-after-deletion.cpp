@@ -1,14 +1,25 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums) {
-        set<int> pt;
-        for(auto& num:nums) pt.insert(num);
-        int result = 0,Max = INT_MIN;
-        for(auto& num:pt){
-            if(num>0)   result+=num;
-            Max = max(Max,num);
+        vector<int> ans;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]>0){
+                ans.push_back(nums[i]);
+                
+            }
         }
-        if(result==0)   return Max;
-        return result;
+        // edge cases
+        if (ans.empty()) {
+            return *max_element(nums.begin(), nums.end());
+        }
+       set<int>st;
+       for(auto &num:ans){
+        st.insert(num);
+       }
+       int sum=0;
+       for(auto &ele:st){
+        sum+=ele;
+       }
+       return sum;
     }
 };
