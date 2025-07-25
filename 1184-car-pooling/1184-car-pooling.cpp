@@ -11,13 +11,13 @@ public:
         
         ans[to]-=pass;
         }
-        vector<int>prefix(ans.size(),0);
+        int sum=0;
         
-        prefix[0]=ans[0];
-        if(prefix[0]>capacity)return false;
-        for(int i=1;i<ans.size();i++){
-            prefix[i]=ans[i]+prefix[i-1];
-            if(prefix[i]>capacity)return false;
+      
+      
+        for(int i=0;i<ans.size();i++){
+           sum+=ans[i];
+            if(sum>capacity)return false;
         }
      
      return true;
