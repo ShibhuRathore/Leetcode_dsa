@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0201-bitwise-and-of-numbers-range](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0389-find-the-difference) |
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
@@ -981,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
