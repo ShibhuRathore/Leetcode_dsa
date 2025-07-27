@@ -1,19 +1,23 @@
 class Solution {
 public:
     static int candy(vector<int>& ratings) {
-         const int n=ratings.size();
-        vector<int> c(n, 1);
-
-        for (int i=1; i<n; i++){
-            if (ratings[i]>ratings[i-1]) 
-                c[i]=c[i-1]+1;
+        int n=ratings.size();
+        vector<int>left(n,1);
+        vector<int>right(n,1);
+        for(int i=1;i<ratings.size();i++){
+            if(ratings[i]>ratings[i-1]){
+                left[i]=left[i-1]+1;
+            }
         }
-        int ans=c.back();
-        for (int i=n-2; i>=0; i--){
-            if (ratings[i]>ratings[i+1]) 
-                c[i]=max(c[i], c[i+1]+1);
-            ans+=c[i];
+        for(int j=n-2;j>=0;j--){
+            if(ratings[j]>ratings[j+1]){
+                right[j]=right[j+1]+1;
+            }
         }
-        return ans;
+        int sum=0;
+       for(int i=0;i<n;i++){
+         sum+=max(left[i],right[i]);
+       }
+       return sum;
     }
 };
