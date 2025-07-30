@@ -860,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
