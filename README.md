@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0790-global-and-local-inversions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
 | [0878-shifting-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0878-shifting-letters) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0790-global-and-local-inversions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
