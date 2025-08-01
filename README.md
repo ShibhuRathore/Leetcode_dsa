@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1500-count-largest-group) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
 ## Monotonic Stack
 |  |
