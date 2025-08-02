@@ -914,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0915-generate-random-point-in-a-circle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0915-generate-random-point-in-a-circle) |
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
 | [0976-minimum-area-rectangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1003-minimum-area-rectangle-ii) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
+| [0915-generate-random-point-in-a-circle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0915-generate-random-point-in-a-circle) |
 | [0976-minimum-area-rectangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
@@ -1282,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0384-shuffle-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0384-shuffle-an-array) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0915-generate-random-point-in-a-circle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0915-generate-random-point-in-a-circle) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1338,4 +1341,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0915-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
