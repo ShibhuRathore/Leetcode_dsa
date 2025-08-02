@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1003-minimum-area-rectangle-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1039-find-the-town-judge) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0954-maximum-sum-circular-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1019-squares-of-a-sorted-array) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
 | [0976-minimum-area-rectangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1289-day-of-the-week](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1289-day-of-the-week) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -1224,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0223-rectangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
 | [0976-minimum-area-rectangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
