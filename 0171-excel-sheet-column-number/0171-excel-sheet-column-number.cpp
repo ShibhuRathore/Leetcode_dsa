@@ -1,12 +1,13 @@
 class Solution {
 private:
-    long helper(string &s, int idx) {
-        if (!idx)
-            return s[idx] - 'A' + 1;
-        return 26 * helper(s, idx - 1) + s[idx] - 'A' + 1;
-    }
+ 
 public:
     int titleToNumber(string columnTitle) {
-        return helper(columnTitle, columnTitle.size() - 1);
+      long result=0;
+      for(auto &ch:columnTitle){
+            int value=ch-'A'+1;
+            result=result*26+value;
+      }
+      return result;
     }
 };
