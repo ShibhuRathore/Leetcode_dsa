@@ -926,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1349-check-if-it-is-a-straight-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1500-count-largest-group](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1500-count-largest-group) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
