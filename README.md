@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0525-contiguous-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0561-array-partition) |
@@ -1060,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0792-binary-search) |
