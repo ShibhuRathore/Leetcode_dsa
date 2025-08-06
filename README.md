@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3791-fruits-into-baskets-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -1081,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2280-count-good-triplets-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1231,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3791-fruits-into-baskets-iii) |
 ## Geometry
 |  |
 | ------- |
