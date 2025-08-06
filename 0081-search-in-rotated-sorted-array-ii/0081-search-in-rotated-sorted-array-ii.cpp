@@ -11,6 +11,7 @@ public:
         if(nums[s]==nums[mid]&&nums[e]==nums[mid]){
             s++;
             e--;
+            continue;
         }
         else if(nums[s]<=nums[mid]){
             if(nums[s]<=target && nums[mid]>target){
