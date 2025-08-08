@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
+| [0826-soup-servings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0826-soup-servings) |
 | [0836-race-car](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0836-race-car) |
 | [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0790-global-and-local-inversions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0915-generate-random-point-in-a-circle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0915-generate-random-point-in-a-circle) |
@@ -1362,4 +1364,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0915-generate-random-point-in-a-circle) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
