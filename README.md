@@ -995,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
@@ -1192,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2050-count-good-numbers) |
