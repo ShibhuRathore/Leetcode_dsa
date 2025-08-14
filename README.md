@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2406-decode-the-message](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
