@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0826-soup-servings) |
 | [0836-race-car](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0836-race-car) |
+| [0867-new-21-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
+| [0867-new-21-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0900-reordered-power-of-2) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0915-generate-random-point-in-a-circle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0915-generate-random-point-in-a-circle) |
@@ -1385,4 +1388,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
