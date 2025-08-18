@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0679-24-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0733-flood-fill) |
 | [0790-global-and-local-inversions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0790-global-and-local-inversions) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
+| [0679-24-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0679-24-game) |
 | [0834-ambiguous-coordinates](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0834-ambiguous-coordinates) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1900-closest-dessert-cost](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1900-closest-dessert-cost) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0384-shuffle-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
+| [0679-24-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0679-24-game) |
 | [0790-global-and-local-inversions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0826-soup-servings) |
