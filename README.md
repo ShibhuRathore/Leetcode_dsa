@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
@@ -1202,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0060-permutation-sequence) |
