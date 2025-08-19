@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0147-insertion-sort-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
@@ -1193,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
@@ -1214,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2050-count-good-numbers) |
