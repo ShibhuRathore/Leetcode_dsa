@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0383-ransom-note) |
+| [0388-longest-absolute-file-path](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0409-longest-palindrome) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0419-battleships-in-a-board) |
@@ -1197,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0388-longest-absolute-file-path](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0388-longest-absolute-file-path) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
