@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0233-number-of-digit-one) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0343-integer-break](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0342-power-of-four) |
