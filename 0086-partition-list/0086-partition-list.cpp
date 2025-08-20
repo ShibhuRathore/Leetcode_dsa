@@ -11,24 +11,28 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        ListNode before(0), after(0);
-        ListNode* before_curr = &before;
-        ListNode* after_curr = &after;
-        
-        while(head) {
-            if(head->val < x) {
-                before_curr->next = head;
-                before_curr = head;
-            } else {
-                after_curr->next = head;
-                after_curr = head;
-            }
-            head = head->next;
-        }
-        
-        after_curr->next = nullptr;
-        before_curr->next = after.next;
-        
-        return before.next;
+  ListNode smallDummy(0);
+  ListNode bigDummy(0);
+  ListNode *Big=&bigDummy;
+  ListNode *Small=&smallDummy;
+  ListNode *small=&smallDummy;
+  ListNode *big=&bigDummy;
+ ListNode *temp=head;
+  while(temp!=NULL){
+      if(temp->val<x){
+        ListNode *newnode=new ListNode(temp->val);
+        small->next=newnode;
+        small=newnode;
+      }
+      else{
+        ListNode *newnode=new ListNode(temp->val);
+        big->next=newnode;
+        big=newnode;
+      }
+      temp=temp->next;
+  }
+  small->next=Big->next;
+  Big->next=nullptr;
+  return Small->next;
     }
 };
