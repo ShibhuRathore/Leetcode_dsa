@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0202-happy-number) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0202-happy-number) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
