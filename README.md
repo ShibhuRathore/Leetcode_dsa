@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1656-count-good-triplets) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0954-maximum-sum-circular-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1210,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1305,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [3738-make-array-non-decreasing](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3738-make-array-non-decreasing) |
 ## Design
