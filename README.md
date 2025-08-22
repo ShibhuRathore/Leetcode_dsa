@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
+| [0859-design-circular-deque](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0878-shifting-letters) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0355-design-twitter) |
+| [0859-design-circular-deque](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1340,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0355-design-twitter) |
 | [0384-shuffle-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0384-shuffle-an-array) |
+| [0859-design-circular-deque](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
