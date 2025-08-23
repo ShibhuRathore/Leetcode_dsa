@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
+| [0494-target-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0679-24-game) |
 | [0834-ambiguous-coordinates](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0834-ambiguous-coordinates) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
