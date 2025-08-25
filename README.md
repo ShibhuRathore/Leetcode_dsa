@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0068-text-justification](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
