@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0233-number-of-digit-one) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0312-burst-balloons) |
 | [0343-integer-break](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
