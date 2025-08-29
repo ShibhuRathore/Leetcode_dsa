@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
+| [0911-profitable-schemes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0911-profitable-schemes) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0867-new-21-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0911-profitable-schemes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0911-profitable-schemes) |
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
