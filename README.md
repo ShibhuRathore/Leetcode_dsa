@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0312-burst-balloons) |
 | [0343-integer-break](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0343-integer-break) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0365-water-and-jug-problem) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0343-integer-break) |
