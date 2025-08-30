@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0807-custom-sort-string) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0826-soup-servings) |
 | [0836-race-car](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0836-race-car) |
 | [0867-new-21-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0867-new-21-game) |
