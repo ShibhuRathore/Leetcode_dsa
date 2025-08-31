@@ -8,9 +8,10 @@ public:
             for(int j=0;j<i;j++){
                 if(nums[j]<nums[i]){
                     dp[i]=max(dp[j]+1,dp[i]);
-                    LCS=max(LCS,dp[i]);
+                   
                 }
             }
+             LCS=max(LCS,dp[i]);
         }
         return LCS;
     }
