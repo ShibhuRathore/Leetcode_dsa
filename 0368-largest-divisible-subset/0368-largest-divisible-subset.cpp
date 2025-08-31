@@ -1,37 +1,33 @@
 class Solution {
 public:
-    // similiar to LIS O(n^2) solution
     vector<int> largestDivisibleSubset(vector<int>& nums) {
         const int n = nums.size();
         sort(nums.begin(), nums.end());
-        vector<int> len(n, 1), prev(n, -1);//state arrays
-
-        int maxLen=0, iMax= -1;
-        for (int i=0; i<n; i++) {
-            for (int j=i+1; j < n; j++) {
-                if (nums[j]%nums[i]==0 && len[j]<len[i]+1) {
-                    len[j]=len[i]+1;
-                    prev[j]=i;
+        vector<int>dp(n,1);
+        vector<int>prev_idx(n,-1);
+        int LIS=1;
+        int LIS_idx=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(nums[i]%nums[j]==0){
+                    if(dp[j]+1>dp[i]){
+                        dp[i]=dp[j]+1;
+                        prev_idx[i]=j;
+                    }
                 }
             }
-            if (len[i]>maxLen) {
-                maxLen=len[i];
-                iMax=i;
+            if(dp[i]>LIS){
+                LIS=dp[i];
+                LIS_idx=i;
             }
         }
-        
-        vector<int> ans;
-        for (int j=iMax; j!=-1; j=prev[j]) {
-            ans.push_back(nums[j]);
-        }
+        vector<int>ans;
+        while(LIS_idx!=-1){
+            ans.push_back(nums[LIS_idx]);
+            LIS_idx=prev_idx[LIS_idx];
+        }   
         return ans;
     }
+
 };
 
-auto init = []()
-{ 
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
