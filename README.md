@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0307-range-sum-query-mutable) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0312-burst-balloons) |
 | [0343-integer-break](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0343-integer-break) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0410-split-array-largest-sum) |
