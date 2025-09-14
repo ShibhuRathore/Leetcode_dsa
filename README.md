@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1003-minimum-area-rectangle-ii) |
+| [1006-vowel-spellchecker](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1039-find-the-town-judge) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0953-reverse-only-letters) |
+| [1006-vowel-spellchecker](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1006-vowel-spellchecker) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1032-satisfiability-of-equality-equations) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1170-shortest-common-supersequence) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1003-minimum-area-rectangle-ii) |
+| [1006-vowel-spellchecker](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1019-squares-of-a-sorted-array) |
