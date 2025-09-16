@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2280-count-good-triplets-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1305,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3738-make-array-non-decreasing](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3738-make-array-non-decreasing) |
@@ -1354,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 ## Binary Indexed Tree
 |  |
