@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1289,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3678-design-task-manager](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
 | ------- |
@@ -1390,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3791-fruits-into-baskets-iii) |
 ## Geometry
@@ -1434,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3678-design-task-manager) |
 ## Iterator
 |  |
 | ------- |
