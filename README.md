@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3678-design-task-manager](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3797-design-spreadsheet](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3797-design-spreadsheet) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1438,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3797-design-spreadsheet) |
 ## Iterator
 |  |
 | ------- |
