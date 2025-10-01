@@ -1062,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0289-game-of-life](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1184-car-pooling) |
+| [1642-water-bottles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1642-water-bottles) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
