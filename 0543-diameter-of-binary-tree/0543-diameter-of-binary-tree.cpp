@@ -11,20 +11,15 @@
  */
 class Solution {
 public:
-    int maxDiameter = 0;
-
-    int height(TreeNode* node) {
-        if (!node) return 0;
-
-        int left = height(node->left);
-        int right = height(node->right);
-
-        maxDiameter = max(maxDiameter, left + right); // local diameter
-        return 1 + max(left, right); // height of subtree
+    int height(TreeNode*root){
+        if(root==NULL)return 0;
+        if(root->left==NULL&&root->right==NULL)return 1;
+        return max(height(root->left),height(root->right))+1;
     }
-
-    int diameterOfBinaryTree(TreeNode* root) {
-        height(root);
-        return maxDiameter;
+     int diameterOfBinaryTree(TreeNode* root) {
+        if(!root)return 0;
+      int leftheight=height(root->left);
+      int rightheight=height(root->right);
+      return max({diameterOfBinaryTree(root->left),diameterOfBinaryTree(root->right),leftheight+rightheight});
     }
 };
