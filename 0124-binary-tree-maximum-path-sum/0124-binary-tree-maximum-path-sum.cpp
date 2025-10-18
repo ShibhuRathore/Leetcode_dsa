@@ -20,7 +20,7 @@ public:
        int neeche_ans=root->val+lh+rh;
        int root_ans=root->val;
        maxsum=max(max(root_ans,neeche_ans),max(best_ans,maxsum));
-       return max(neeche_ans,root_ans);
+       return max(best_ans,root_ans);
     }
     int maxPathSum(TreeNode* root) {
         solve(root);
