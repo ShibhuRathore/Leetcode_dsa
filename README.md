@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0388-longest-absolute-file-path](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0443-string-compression) |
@@ -1366,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
@@ -1393,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
