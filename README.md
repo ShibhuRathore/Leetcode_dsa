@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
@@ -1355,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0094-binary-tree-inorder-traversal) |
