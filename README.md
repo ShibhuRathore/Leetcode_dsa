@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
@@ -1378,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1489,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2227-sum-of-subarray-ranges) |
