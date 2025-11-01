@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [0790-global-and-local-inversions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
@@ -1380,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1492,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0456-132-pattern](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2227-sum-of-subarray-ranges) |
