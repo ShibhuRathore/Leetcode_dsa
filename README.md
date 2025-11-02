@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1642-water-bottles) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
