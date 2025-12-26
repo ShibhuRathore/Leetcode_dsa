@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2406-decode-the-message](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2406-decode-the-message) |
 | [2429-design-a-food-rating-system](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2429-design-a-food-rating-system) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2249-count-the-hidden-sequences](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
