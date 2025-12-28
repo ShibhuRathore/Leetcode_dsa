@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
