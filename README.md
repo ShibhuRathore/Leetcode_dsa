@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0652-find-duplicate-subtrees) |
+| [0756-pyramid-transition-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0756-pyramid-transition-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0807-custom-sort-string) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0357-count-numbers-with-unique-digits](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0756-pyramid-transition-matrix) |
 | [0834-ambiguous-coordinates](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0834-ambiguous-coordinates) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1900-closest-dessert-cost](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1900-closest-dessert-cost) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0393-utf-8-validation) |
+| [0756-pyramid-transition-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
