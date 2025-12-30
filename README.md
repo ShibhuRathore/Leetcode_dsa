@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0807-custom-sort-string) |
 | [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0840-magic-squares-in-grid) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
 | [0859-design-circular-deque](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0860-design-circular-queue) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
@@ -1102,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0900-reordered-power-of-2) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
