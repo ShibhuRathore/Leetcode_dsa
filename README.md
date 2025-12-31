@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1900-closest-dessert-cost](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1900-closest-dessert-cost) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2201-valid-arrangement-of-pairs) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -989,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2206-detonate-the-maximum-bombs](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1024,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2047-find-a-peak-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1298,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2047-find-a-peak-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
