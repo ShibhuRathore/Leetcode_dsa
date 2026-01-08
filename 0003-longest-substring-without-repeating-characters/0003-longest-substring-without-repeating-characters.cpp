@@ -1,19 +1,19 @@
 class Solution {
 public:
-  
     int lengthOfLongestSubstring(string s) {
-        int maxLength=0;
-        string temp="";
-     for(int i=0;i<s.length();i++){
-        if(temp.find(s[i])==string::npos){
-            temp+=s[i];
-            maxLength=max(maxLength,(int)temp.length());
+        unordered_map<int,int>mp;
+        int n=s.length();
+        int i=0;
+        int maxlen=0;
+        for(int j=0;j<n;j++){
+           while(i<=j&&mp.find(s[j])!=mp.end()){
+              mp[s[i]]--;
+              if(mp[s[i]]==0)mp.erase(s[i]);
+              i++;
+           }
+           mp[s[j]]++;
+           maxlen=max((j-i+1),maxlen);
         }
-        else{
-            int pos=temp.find(s[i]);
-            temp=temp.substr(pos+1,temp.length()-pos-1);
-            temp+=s[i];
-        }}
-        return maxLength;
+        return maxlen;
      }
 };
