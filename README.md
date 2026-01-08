@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2406-decode-the-message](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2406-decode-the-message) |
 | [2429-design-a-food-rating-system](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2429-design-a-food-rating-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2442-number-of-arithmetic-triplets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2479-meeting-rooms-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2442-number-of-arithmetic-triplets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2479-meeting-rooms-iii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
