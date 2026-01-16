@@ -1669,4 +1669,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/3462-vowels-game-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
