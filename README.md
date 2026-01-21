@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0900-reordered-power-of-2) |
+| [0904-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0867-new-21-game) |
+| [0904-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-shifting-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0878-shifting-letters) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0904-fruit-into-baskets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
 | [0911-profitable-schemes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0911-profitable-schemes) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
