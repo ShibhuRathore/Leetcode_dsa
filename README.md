@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0840-magic-squares-in-grid) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0859-design-circular-deque](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0878-shifting-letters) |
@@ -1311,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
