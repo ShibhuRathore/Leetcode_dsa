@@ -1,18 +1,20 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-     vector<int>count(26,0);
-     int left=0,maxFreq=0,maxLen=0;
-     for(int right=0;right<s.size();right++){
-        count[s[right]-'A']++;
-        maxFreq=max(maxFreq,count[s[right]-'A']);
-        int windowSize=right-left+1;
-        if(windowSize-maxFreq>k){
-            count[s[left]-'A']--;
-            left++;
+        int maxlen=INT_MIN, n=s.length(),i=0,j=0,maxfreq=INT_MIN;
+        unordered_map<char,int>mp;
+        for(j=0;j<n;j++){
+            mp[s[j]]++;
+            maxfreq=max(maxfreq,mp[s[j]]);
+            while((j-i+1)-maxfreq>k){
+                mp[s[i]]--;
+                if(mp[s[i]]==0){
+                    mp.erase(s[i]);
+                }
+                i++;
+            }
+            maxlen=max((j-i+1),maxlen);
         }
-        maxLen=max(maxLen,right-left+1);
-     } 
-     return maxLen;  
+        return maxlen;
     }
 };
