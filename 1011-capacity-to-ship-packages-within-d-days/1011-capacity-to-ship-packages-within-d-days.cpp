@@ -8,7 +8,7 @@ public:
             if(currwt+wt>mid){
                 currwt=wt;
                 count++;
-              if(count>days)return false;
+              
             }
             else{
                 currwt+=wt;
