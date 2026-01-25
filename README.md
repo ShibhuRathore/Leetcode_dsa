@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-minimum-area-rectangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1003-minimum-area-rectangle-ii) |
 | [1006-vowel-spellchecker](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1006-vowel-spellchecker) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1018-largest-perimeter-triangle) |
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0923-super-egg-drop) |
 | [0933-increasing-order-search-tree](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
