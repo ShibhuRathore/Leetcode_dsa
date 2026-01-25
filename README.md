@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1813-maximum-erasure-value](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1327,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1753-path-with-minimum-effort) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2047-find-a-peak-element-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
