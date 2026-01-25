@@ -4,7 +4,7 @@ public:
         int currwt=0;
         int count=1;
         for(auto &wt:weights){
-            if(wt>mid)return false;
+         
             if(currwt+wt>mid){
                 currwt=wt;
                 count++;
