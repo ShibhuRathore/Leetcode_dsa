@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [0790-global-and-local-inversions](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0792-binary-search) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0797-rabbits-in-forest](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0833-bus-routes) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0768-partition-labels) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0852-friends-of-appropriate-ages](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0852-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0868-push-dominoes) |
 | [0953-reverse-only-letters](https://github.com/ShibhuRathore/Leetcode_dsa/tree/master/0953-reverse-only-letters) |
