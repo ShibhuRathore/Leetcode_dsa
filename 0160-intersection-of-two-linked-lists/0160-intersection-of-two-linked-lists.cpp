@@ -13,8 +13,8 @@ public:
         ListNode*tempA=headA;
         ListNode*tempB=headB;
         while(tempA!=tempB){
-            tempA=tempA?tempA->next:headB;
-            tempB=tempB?tempB->next:headA;
+            tempA=(tempA!=NULL)?tempA->next:headB;
+            tempB=(tempB!=NULL)?tempB->next:headA;
         }
         return tempB;
     }
