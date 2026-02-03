@@ -13,39 +13,38 @@ public:
     }
 };
 */
-
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(!head)return NULL;
-        Node*curr=head;
-        while(curr!=NULL){
-             Node *node=new Node(curr->val);
-            node->next=curr->next;
-            curr->next=node;
-            curr=node->next;
+     if(!head)return NULL;
+     Node *curr=head;
+     while(curr){
+        Node* copy=new Node(curr->val);
+        copy->next=curr->next;
+        curr->next=copy;
+        curr=copy->next;
+     }
+    curr=head;
+    while(curr){
+        if(curr->random){
+            curr->next->random=curr->random->next;
         }
-        curr=head;
-        while(curr!=NULL){
-        Node *clone=curr->next;
-            if(curr->random){
-                clone->random=curr->random->next;
+        curr=curr->next->next;
+    }
+    curr = head;
+        Node* copyHead = head->next;
+        Node* tempCopy = copyHead;
+
+        while (curr) {
+            curr->next = curr->next->next; // Restore original
+            if (tempCopy->next) {
+                tempCopy->next = tempCopy->next->next; // Link copies
             }
-            else{
-                clone->random=NULL;
-            }
-            curr=clone->next;
-          
-        }
-         Node* newHead = head->next;
-        for (Node* cur = head; cur; ) {
-            Node* clone = cur->next;
-            cur->next = clone->next;
-            clone->next = clone->next ? clone->next->next : nullptr;
-            cur = cur->next;
+            
+            curr = curr->next;
+            tempCopy = tempCopy->next;
         }
 
-        return newHead;
-
+        return copyHead;
     }
 };
