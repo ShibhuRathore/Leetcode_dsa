@@ -12,14 +12,15 @@
 class Solution {
 public:
    bool ismirror(TreeNode*p,TreeNode*q){
-    if(!p&&!q) return true;
-    if(p&&q)
-    {return((p->val==q->val) && ismirror(p->left,q->right)&&ismirror(p->right,q->left));
-       
-    }
-    return false;
+    if(!p&&!q)return true;
+    if(p&&!q)return false;
+    if(q&&!p)return false;
+    bool value=(p->val==q->val);
+    bool check1=ismirror(p->left,q->right);
+    bool check2=ismirror(p->right,q->left);
+    return (value&&check1&&check2);
    }
     bool isSymmetric(TreeNode* root) {
-        return ismirror(root->left,root->right);
+     return ismirror(root->left,root->right);
     }
 };
