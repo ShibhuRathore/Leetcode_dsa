@@ -28,26 +28,50 @@ ListNode* Kth(ListNode* head, int k){
     return temp;
 }
     ListNode* reverseKGroup(ListNode* head, int k) {
-       ListNode*nextNode=NULL;
-       ListNode*prevNode=NULL;
-       ListNode*KthNode=NULL;
-       ListNode*temp=head;
-       while(temp!=NULL){
-        KthNode=Kth(temp,k);
-        if(KthNode==NULL){
-            if(prevNode)prevNode->next=temp;
-            break;
-        }
-        nextNode=KthNode->next;
-        KthNode->next=NULL;
-        reverseLL(temp);
-        if(temp==head)head=KthNode;
-        else{
-            prevNode->next=KthNode;
-        }
-        prevNode=temp;
-         temp=nextNode;
-       }
-       return head;
+        if(head==NULL)return NULL;
+        ListNode* check = head;
+    for (int i = 0; i < k; i++) {
+        if (check == NULL) return head; // Fewer than k nodes, leave as is
+        check = check->next;
+    }
+    //    ListNode*nextNode=NULL;
+    //    ListNode*prevNode=NULL;
+    //    ListNode*KthNode=NULL;
+    //    ListNode*temp=head;
+    //    while(temp!=NULL){
+    //     KthNode=Kth(temp,k);
+    //     if(KthNode==NULL){
+    //         if(prevNode)prevNode->next=temp;
+    //         break;
+    //     }
+    //     nextNode=KthNode->next;
+    //     KthNode->next=NULL;
+    //     reverseLL(temp);
+    //     if(temp==head)head=KthNode;
+    //     else{
+    //         prevNode->next=KthNode;
+    //     }
+    //     prevNode=temp;
+    //      temp=nextNode;
+    //    }
+    //    return head;
+     ListNode*prev=NULL;
+     ListNode*curr=head;
+     ListNode*next=NULL;
+     int count=0;
+     while(curr!=NULL&&count<k){
+        next=curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=next;
+        count++;
+     }
+     //prev points to the head of the group
+     //curr points to the head of the next group
+     //next points to the tai
+     if(curr!=NULL){
+          head->next=reverseKGroup(curr,k);
+     }
+    return prev;
     }
 };
